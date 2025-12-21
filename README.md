@@ -8,6 +8,10 @@
 - **Canonical document:** QTM_Index_v0.01.pdf
 - **Date (UTC):** 2025-12-17
 
+## Release
+
+Published release v0.01 is located in `release_v0.01/` and is intended to remain immutable.
+
 ## Overview
 QTM Index is a neutral coordination primitive that indexes standards-based claims about entities and offerings to enable deterministic discovery, eligibility evaluation, and clearing across decentralized applications. The specification minimizes on-chain state, remains compatible with public standards and verifiable credential models, and does not assert truth, authority, or exclusivity.
 
@@ -31,7 +35,6 @@ To verify the integrity of the specification:
 
 ```bash
 shasum -a 256 QTM_Index_v0.01.pdf
-
 
 Compare the output to the value in HASH.txt.
 
