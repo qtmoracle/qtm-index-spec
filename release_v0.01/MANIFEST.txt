@@ -1,0 +1,21 @@
+Release: v0.01
+Status: Version locked, final
+Scope: Non-exclusive, descriptive, review-ready
+
+Included documents:
+
+Evaluator_Example_v0.01_Final.pdf
+Evaluator_Inputs_v0.01_Final.pdf
+Evaluator_Outputs_v0.01_Final.pdf
+Evaluator_Rationale_v0.01_Final.pdf
+Evaluator_Scope_v0.01_Final.pdf
+Evaluator_Usage_Guide_v0.01_Final.pdf
+
+Executive_Overview_v0.01_Final.pdf
+Glossary_Terms_of_Reference_v0.01_Final.pdf
+Institutional_Neutrality_Statement_v0.01_Final.pdf
+Prior_Art_Executive_Summary_v0.01_Final.pdf
+Prior_Art_Timeline_v0.01_Final.pdf
+Technical_Summary_v0.01_Final.pdf
+Use_Case_Anchor_v0.01_Final.pdf
+
