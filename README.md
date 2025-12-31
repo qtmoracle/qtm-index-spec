@@ -8,6 +8,11 @@
 - **Canonical document:** QTM_Index_v0.01.pdf
 - **Date (UTC):** 2025-12-17
 
+## Public Reference State (Citeable)
+Canonical citeable reference surface for v0.01 lives at:
+- `public-reference/v0.01/QTM_Index_v0.01_Public_Reference_State.pdf`
+- `public-reference/v0.01/PUBLICATION_NOTES.txt`
+
 ## Release
 
 Published release v0.01 is located in `release_v0.01/` and is intended to remain immutable.
