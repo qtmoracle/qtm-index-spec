@@ -1,0 +1,11 @@
+QTM Index v0.01 — Publication Notes
+Published: December 31, 2025
+
+A) Content Hash (SHA-256) — hash of canonical public payload (stable across formats)
+8a216c2985f7b2ea04d0fc5cf9a92637fd75acdefc3c7b087442eb5ff2154021
+
+B) PDF File Hash (SHA-256) — hash of this specific PDF file bytes
+b7b25c647560861942091e86bf736f6674ae3bf4a60ea82c900c503a76d8bb5f
+
+Citation string:
+QTM Index v0.01 — Public Reference State
